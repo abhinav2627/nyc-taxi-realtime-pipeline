@@ -214,7 +214,7 @@ This is **Project 2** of a 6-month data engineering portfolio series:
 ## 👤 Author
 
 **Abhinav Mandal**
-- LinkedIn: [linkedin.com/in/YOUR_HANDLE](https://linkedin.com)
+- LinkedIn: https://www.linkedin.com/in/abhinavmandal27/
 - GitHub: [github.com/abhinav2627](https://github.com/abhinav2627)
 
 ---
